@@ -1,2 +1,2 @@
 # UCSC-Generative-Design
-Kyle Fegan
+## Kyle Fegan
